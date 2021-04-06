@@ -33,6 +33,6 @@
   "homepage": "https://github.com/arunahuja94/react-native-flip-card-plus#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
-	"react-native-swipe-gestures-plus": "^1.1.0",
+    "react-native-swipe-gestures-plus": "^1.1.0"
   }
 }

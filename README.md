@@ -127,7 +127,7 @@ const styles = StyleSheet.create({
 | friction           | Number     | 6                         | The friction of card animation |
 | perspective        | Number     | 0                         | The amount of perspective applied to the flip transformation |
 | flipHorizontal     | bool       | false                     | If you set true, a card flip to horizontal. |
-| flipVertical       | bool       | true                      | If you set false, a card not flip to vertical. |
+| flipVertical       | bool       | true                      | If you set false, a card not flip to vertical. If you set true both flipHorizontal and flipVertical , a card flip to diagonal. |
 | alignHeight        | bool       | false                     | If you pass `true` to `alignHeight` param, the card keep height of bigger side. |
 | alignWidth         | bool       | false                     | If you pass `true` to `alignWidth` param, the card keep width of bigger side. |
 | useNativeDriver    | bool       | false                     | If you pass `true` to `useNativeDriver` param, the card animation will utilize the native driver. |

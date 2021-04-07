@@ -1,6 +1,6 @@
 # react-native-flip-card-plus
 
-> The card component which has a motion of flip for React Native(Android) with gestures
+> The card component which has a motion of flip for React Native(Android/ios) with gestures
 
 
 ## Installation

@@ -1,6 +1,6 @@
 {
   "name": "react-native-flip-card-plus",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "The card component which has a motion of flip for React Native(Android) with gestures ",
   "main": "index.js",
   "files": [

@@ -122,7 +122,8 @@ const styles = StyleSheet.create({
 | -------------------|:----------:| ------------------------- | ------------ |
 | flip               | bool       | false                     | If you change default display side, you can set `true` to this param. If you change side, you can pass `bool` variable dynamically |
 | pressable          | bool       | true                      | If you want to disable card press, you can set `false` to this param. |
-| pressableCustomFunc | bool       | true                      | If you want to flip card on press, you can set `false` to this param. |
+| swipeable          | bool       | true                      | If you want to disable gesture , you can set `false` to this param. |
+| pressableCustomFunc | bool      | true                      | If you want to flip card on press, you can set `false` to this param. |
 | longPressable      | bool       | true                      | If you want to disable long press a card, you can set `false` to this param. |
 | friction           | Number     | 6                         | The friction of card animation |
 | perspective        | Number     | 0                         | The amount of perspective applied to the flip transformation |

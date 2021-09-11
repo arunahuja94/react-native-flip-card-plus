@@ -8,6 +8,16 @@
 `npm i react-native-flip-card-plus`
 
 
+## Look and feel
+
+Once you're up and running
+
+<p align="left">
+  <img align="center" alt="Product: demo" src="./screenshots/android-flipCard.gif" width="250" height="500" />
+  <img align="center" alt="Product: demo" src="./screenshots/ios-flipCard.gif" width="250" height="500" />
+</p>
+
+
 ## Usage with single card
 
 ```

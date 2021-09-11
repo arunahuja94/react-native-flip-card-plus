@@ -1,14 +1,13 @@
 {
   "name": "react-native-flip-card-plus",
-  "version": "1.0.5",
+  "version": "2.0.0",
   "description": "The card component which has a motion of flip for React Native(Android) with gestures ",
   "main": "index.js",
   "files": [
     "README.md",
     "index.js",
     "package.json",
-    "lib",
-    "test"
+    "lib"
   ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -25,10 +24,7 @@
     "card",
     "flip"
   ],
-  "author": "moschan <kota.frsw＠gmail.com> (http://moschan.com/blog)",
-  "contributors": [
-    "Arun Ahuja <arunahuja94@gmail.com/>"
-  ],
+  "author": "Arun Ahuja <arunahuja94@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/arunahuja94/react-native-flip-card-plus/issues"
@@ -36,6 +32,6 @@
   "homepage": "https://github.com/arunahuja94/react-native-flip-card-plus#readme",
   "dependencies": {
     "prop-types": "^15.7.2",
-    "react-native-swipe-gestures-plus": "^1.1.2"
+    "react-native-swipe-gestures-plus": "^1.1.3"
   }
 }

@@ -1,4 +1,2 @@
-import FlipCard, {Face, Back} from './lib/FlipCard.js'
-
-export default FlipCard
-export {Face, Back}
+import FlipCard from "./lib/FlipCard.js";
+export default FlipCard;
